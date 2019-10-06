@@ -293,6 +293,10 @@
   },
   { "title": "git cherry",
     "description": "Let you check whether your branch changes are present in some other branch or not"
-  }
+  },
+  { "title": "git mv [original-file] [renamed-file]",
+    "description": "This command will rename the original file and it's ready to commit"
+  }  
+    
 ]
 
